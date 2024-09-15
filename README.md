@@ -6,9 +6,9 @@ It all started a very long time age, when I did some basic programming with C++ 
 Most of the tools and languages, that I listed below, are the ones I am the most familiar with. Not necesarily good at it, but the ones I am most comfortable to jump in and start working with without the need to spend hours learning.
 
 ## My current work
-Currently I am working on ![ProjectEuler](https://projecteuler.net/archives) mini coding challenges, which you can ![find in my repository](https://github.com/ignasc/coding_challenges_projecteuler).
+Currently I am working on [ProjectEuler](https://projecteuler.net/archives) mini coding challenges, which you can ![find in my repository](https://github.com/ignasc/coding_challenges_projecteuler).
 
-I also have my own ![portfolio](https://www.ignasc.lt/), which is running on raspberry pi, that is sitting in my room, under the desk. It showcases what I think are my best mini projects I have done.
+I also have my own [portfolio](https://www.ignasc.lt/), which is running on raspberry pi, that is sitting in my room, under the desk. It showcases what I think are my best mini projects I have done.
 I am very proud of this! And I am looking to get to the point where this website would be containerized and automatically updated whenever it's repository gets a new commit. P.S. this love for automation comes from my electrical engineering career.
 
 ## Languages and tools I am mostly familiar with:
