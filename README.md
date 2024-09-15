@@ -1,5 +1,5 @@
 ## About Me:
-My name is Ignas, I am electrical engineer and I am learning programming, so that I can no longer be electrical engineer.
+My name is Ignas, I am electrical engineer and I am learning programming, so that I could no longer be electrical engineer.
 
 It all started a very long time age, when I did some basic programming with C++ and programmable microcontrollers. Then, throughout the years, I did some random coding/learning using different languages like C++, C#, Python, played around with Unity and Unreal game engines, did some random coding/learning using various tools like React, Redux, Django, Nodejs, Express, Flask, Docker, Kubernetes. And just not so long ago, I decided that it is enough to goof around and time to change career paths. So, here I am - learning to code.
 
