@@ -1,17 +1,16 @@
-## About Me:
+## About Me
 My name is Ignas, I am electrical engineer and I am learning programming, so that I could no longer be electrical engineer.
 
-It all started a very long time age, when I did some basic programming with C++ and programmable microcontrollers. Then, throughout the years, I did some random coding/learning using different languages like C++, C#, Python, played around with Unity and Unreal game engines, did some random coding/learning using various tools like React, Redux, Django, Nodejs, Express, Flask, Docker, Kubernetes. And just not so long ago, I decided that it is enough to goof around and time to change career paths. So, here I am - learning to code.
-
-Most of the tools and languages, that I listed below, are the ones I am the most familiar with. Not necesarily good at it, but the ones I am most comfortable to jump in and start working with without the need to spend hours learning.
+It all started a very long time age, when I did some basic programming with C++ and programmable microcontrollers. Then, throughout the years, I did some random coding/learning using different languages like C++, C#, Python, played around with Unity and Unreal game engines, did some random coding/learning using various tools like React, Redux, Django, Nodejs, Express, Flask, Docker, Kubernetes. And just not so long ago, I decided that it is enough goofing around and time to change career paths. So, here I am - learning to code.
 
 ## My current work
-Currently I am working on [ProjectEuler](https://projecteuler.net/archives) mini coding challenges, which you can ![find in my repository](https://github.com/ignasc/coding_challenges_projecteuler).
+Currently I am working on [ProjectEuler](https://projecteuler.net/archives) mini coding challenges, which you can [find in my repository](https://github.com/ignasc/coding_challenges_projecteuler).
 
 I also have my own [portfolio](https://www.ignasc.lt/), which is running on raspberry pi, that is sitting in my room, under the desk. It showcases what I think are my best mini projects I have done.
 I am very proud of this! And I am looking to get to the point where this website would be containerized and automatically updated whenever it's repository gets a new commit. P.S. this love for automation comes from my electrical engineering career.
 
-## Languages and tools I am mostly familiar with:
+## Languages and tools
+Most of the tools and languages, that I listed below, are the ones I am the most familiar with. Not necesarily good at them, but the ones I am have spent the most time doing stuff and the ones I am most comfortable with to jump in and start working with without the need to spend hours learning.
 ### Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
