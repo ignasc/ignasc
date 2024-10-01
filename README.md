@@ -10,7 +10,7 @@ I also have my own [portfolio](https://www.ignasc.lt/), which is running on rasp
 I am very proud of this! And I am looking to get to the point where this website would be containerized and automatically updated whenever it's repository gets a new commit. P.S. this love for automation comes from my electrical engineering career.
 
 ## Languages and tools
-Most of the tools and languages, that I listed below, are the ones I am the most familiar with. Not necesarily good at them, but the ones I am have spent the most time doing stuff and the ones I am most comfortable with to jump in and start working with without the need to spend hours learning.
+Most of the tools and languages, that I listed below, are the ones I am the most familiar with. Not necesarily good at them, but the ones I have spent the most time doing stuff and the ones I am most comfortable with to jump in and start working without the need to spend hours learning.
 ### Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
