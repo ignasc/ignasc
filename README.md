@@ -6,11 +6,10 @@ It all started a very long time age, when I did some basic programming with C++ 
 ## My current work
 Currently I am working on [ProjectEuler](https://projecteuler.net/archives) mini coding challenges, which you can [find in my repository](https://github.com/ignasc/coding_challenges_projecteuler).
 
-I also have my own [portfolio](https://www.ignasc.lt/), which is running on raspberry pi, that is sitting in my room, under the desk. It showcases what I think are my best mini projects I have done.
-I am very proud of this! And I am looking to get to the point where this website would be containerized and automatically updated whenever it's repository gets a new commit. P.S. this love for automation comes from my electrical engineering career.
+I also have my own [portfolio](https://www.ignasc.lt/), which is running on raspberry pi, that is sitting in my room, under the desk. It showcases what I think are my best mini projects I have done and I am very proud of the progress! I wil be looking to get to the point where this portfolio website would be containerized and automatically updated whenever it's repository gets a new commit as I would like to use my raspberry pi for other things, like smart home hub for example. P.S. this love for automation comes from my electrical engineering career.
 
 ## Languages and tools
-Most of the tools and languages, that I listed below, are the ones I am the most familiar with. Not necesarily good at them, but the ones I have spent the most time doing stuff and the ones I am most comfortable with to jump in and start working without the need to spend hours learning.
+Most of the tools and languages listed below are the ones I am the most familiar with. Not necesarily good at them, but the ones I have spent the most time through courses, mini projects and coding challenges. Some have been used quite a while ago, some I use constantly.
 ### Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +29,7 @@ Most of the tools and languages, that I listed below, are the ones I am the most
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ignasc&theme=onedark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ignasc&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ignasc&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/esu.ignas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ignas.c) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignasc) 
