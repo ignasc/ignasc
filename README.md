@@ -15,7 +15,7 @@ I also have my own [portfolio](https://www.ignasc.lt/), which is running on rasp
 * Diceware password generator: [live preview](https://ignasc.github.io/diceware-password-generator/), [source code](https://github.com/ignasc/diceware-password-generator)
 * Basic budget calculator: [live preview](https://www.ignasc.lt/projects/personal-budget-app/), [source code](https://github.com/ignasc/personal-budget-app)
 * Project Euler problem sollutions: [source code](https://github.com/ignasc/coding_challenges_projecteuler)
-* Basic match calculator: [live preview](https://ignasc.github.io/projectodin-foundations-project-4-calculator/), [source code](https://github.com/ignasc/projectodin-foundations-project-4-calculator)
+* Basic math calculator: [live preview](https://ignasc.github.io/projectodin-foundations-project-4-calculator/), [source code](https://github.com/ignasc/projectodin-foundations-project-4-calculator)
 
 ## Languages and tools
 
