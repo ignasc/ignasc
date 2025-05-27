@@ -1,5 +1,6 @@
 ## About Me
-My name is Ignas, I am electrical engineer and I am learning to code, so that I could no longer be electrical engineer. Automation is the part I really like about electrical engineering and as I am learning to code, I enjoy the ability to automate things using computer language. Therefore my long term goals will aim towards DevOps career path.
+
+My name is Ignas, I am electrical engineer and I am learning to code, so that I could no longer be electrical engineer. Automation is the part I really like about electrical engineering and as I am learning to code, I enjoy the ability to automate things using computer programming languages. Therefore my long term goals aim towards DevOps career path.
 
 It all started a very long time age, when I did some basic programming with C++ and programmable microcontrollers. Then, throughout the years, I did some random coding/learning out of curiosity using different languages and tools. And just not so long ago, I decided that it was enough goofing around and time to change career paths. So, here I am - learning to code, just this time focused, with intention and goals!
 
