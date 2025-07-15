@@ -1,42 +1,46 @@
-## About Me
+# About Me
 
-My name is Ignas, I am electrical engineer and I am learning to code, so that I could no longer be electrical engineer. Automation is the part I really like about electrical engineering and as I am learning to code, I enjoy the ability to automate things using computer programming languages. Therefore my long term goals aim towards DevOps career path.
+My name is Ignas, I am electrical engineer and I am learning to code. Automation is the part I really like about electrical engineering and as I am learning to code, I enjoy the ability to automate things using computer programming languages.
 
-It all started a very long time age, when I did some basic programming with C++ and programmable microcontrollers. Then, throughout the years, I did some random coding/learning out of curiosity using different languages and tools. And just not so long ago, I decided that it was enough goofing around and time to change career paths. So, here I am - learning to code, just this time focused, with intention and goals!
+It all started a very long time age, when I did some basic programming with C++ and programmable microcontrollers. Then, throughout the years, I did some random coding/learning out of curiosity using different languages and tools. And just not so long ago, I decided learning to code while being focused on intention and goals!
+
+My favourite part is working on the back end of the whole full stack experience. Problem solving, algorithms, implementing logic, creating functions and the whole automation part is what I like the most from my current experience and progression in computer programming.
 
 What I have learned over this period is that having a solid understanding of programming principles allows me to pick up any language/tool/framework and start learning it relatively easy, especially when I can learn by coding and analysing examples.
 
-## Projects/Showcase
-Current mini projects that I think are the best to showcase my skills.
+# My current activities and work
 
-* Diceware password generator (basic JS): [live preview](https://ignasc.github.io/diceware-password-generator/), [source code](https://github.com/ignasc/diceware-password-generator)
+* Refreshing and improving my knowledge on [The Odin Project](https://www.theodinproject.com/) using full stack JavaScript path as my main tech stack focus.
+
+I am also hosting my own [portfolio](https://www.ignasc.lt/) on a server that is running on raspberry pi at home. Although my most recent details and projects are here on github and I will be looking to rebuild my website at some point in the future and potentially containerize everything to be able to use server for more than just a single website.
+
+# Projects
+
+Current projects that I think are worthy to showcase my skills. Some are quite old, the ones that I did with just basic knowledge, while others are more recent that include better coding practices and more advanced features like classes, modules and better version management using git.
+
+* Solutions to Project Euler coding problems (JS): [source code](https://github.com/ignasc/coding_challenges_projecteuler)
+* Diceware password generator (basic HTML/JS): [live preview](https://ignasc.github.io/diceware-password-generator/), [source code](https://github.com/ignasc/diceware-password-generator)
+* Simple book library (HTML/JS): [live preview](https://ignasc.github.io/projectodin-bookLibrary/), [source code](https://github.com/ignasc/projectodin-bookLibrary)
 * Budget calculator (React): [live preview](https://www.ignasc.lt/projects/personal-budget-app/), [source code](https://github.com/ignasc/personal-budget-app)
-* Project Euler problem sollutions (basic JS): [source code](https://github.com/ignasc/coding_challenges_projecteuler)
-* Math calculator (basic JS): [live preview](https://ignasc.github.io/projectodin-foundations-project-4-calculator/), [source code](https://github.com/ignasc/projectodin-foundations-project-4-calculator)
+* Math calculator (HTML/JS): [live preview](https://ignasc.github.io/projectodin-foundations-project-4-calculator/), [source code](https://github.com/ignasc/projectodin-foundations-project-4-calculator)
 
-## My current activities and work
+# Languages and tools
 
-* Refreshing my knowledge on [The Odin Project](https://www.theodinproject.com/) using full stack JavaScript path as my main tech stack focus.
-
-I also have my own [portfolio](https://www.ignasc.lt/), which is running on raspberry pi at home. While my most recent details and projects are here on github, I have built my personal portfolio as a means have some practice maintaining the server! I will be looking to get to the point where this portfolio website would be containerized and automatically updated whenever it's repository gets a new commit as I would like to use my raspberry pi for other things, like smart home hub for example. P.S. this love for automation comes from my electrical engineering career or maybe I am just too lazy to do stuff manually and want to automate everything!
-
-## Languages and tools
-
-### Languages
+## Languages
 Languages and tools listed below are the ones I am the most familiar with.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-### Tools
-Tools listed below are the ones I have had a basic introduction to throughout courses, mini projects and coding challenges. I will be looking to implement them more often in my projects.
+## Tools
+Tools listed below are the ones I have had a basic introduction to throughout courses, mini projects and coding challenges. While I would not be able to jump into them immediately, at the very least I have the understanding of basic principles and what pusposes these tools serve and it would be much easier to get up to speed with them than if I was to learn them from scratch.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
