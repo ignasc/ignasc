@@ -20,9 +20,14 @@ I am also hosting my own [portfolio](https://www.ignasc.lt/) on a server that is
 
 Current projects that I think are worthy to showcase my skills. Some are quite old, the ones that I did with just basic knowledge, while others are more recent that include better coding practices and more advanced features like classes, modules and better version management using git.
 
+### Latest project
+
+* Todo App (HTML/JS): [live preview](https://ignasc.github.io/todo-app/), [source code](https://github.com/ignasc/todo-app)
+
+### Previous projects
+
 * Solutions to Project Euler coding problems (JS): [source code](https://github.com/ignasc/coding_challenges_projecteuler)
 * Diceware password generator (basic HTML/JS): [live preview](https://ignasc.github.io/diceware-password-generator/), [source code](https://github.com/ignasc/diceware-password-generator)
-* Todo App (HTML/JS): [live preview](https://ignasc.github.io/todo-app/), [source code](https://github.com/ignasc/todo-app)
 * Simple book library (HTML/JS): [live preview](https://ignasc.github.io/projectodin-bookLibrary/), [source code](https://github.com/ignasc/projectodin-bookLibrary)
 * Budget calculator (React): [live preview](https://www.ignasc.lt/projects/personal-budget-app/), [source code](https://github.com/ignasc/personal-budget-app)
 * Math calculator (HTML/JS): [live preview](https://ignasc.github.io/projectodin-foundations-project-4-calculator/), [source code](https://github.com/ignasc/projectodin-foundations-project-4-calculator)
