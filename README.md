@@ -1,18 +1,10 @@
 # About Me
 
-My name is Ignas, I am electrical engineer and I am learning to code. I have been involted with computers since my childhood, when my father built me first ZX Spectrum computer, which I used to just play video games. Same happened later with NES console and Playstation 1. When I got my first desktop computer, that is when I not only played games, but also explored operating system, fiddled with settings, had to reinstall OS multiple times and eventually got comfortable with looking after computers on my own. Ever since then, I always built my own systems and set everything from the ground up. I was always drawn towards technology related stuff, whether that is software or hardware technology.
-
-There was also a period when I learned the basics of networking. While I cannot recall all the tiny details of it, I am confortable configuring, maintaining network and it's devices.
-
-As for programming, it all started a very long time age, when I did some basic programming with C++ and programmable microcontrollers. Then, throughout the years, I did some random coding/learning out of curiosity using different languages and tools. And just not so long ago, I decided to learn computer programming the right way: focused on personal goals.
-
-Of the full stack tech, my favourite part so far has been the back end. Probably because back end is what uses that "classic" programming syntax like loops, variables, objects etc. Problem solving, algorithms, implementing logic, creating functions and the whole automation part is what I like the most from my current experience and progression in computer programming.
-
-What I have learned over this period is that having a solid understanding of programming principles allows me to pick up any language/tool/framework and start learning it relatively easy, especially when I can learn by coding and analysing other's work. Even if I have never seen the language or tool before, it is fairly easy to recognise some common patterns and figure out what certain code snippets do.
+My name is Ignas, I am electrical engineer and I am learning to code.
 
 # My current activities and work
 
-* Refreshing and improving my knowledge on [The Odin Project](https://www.theodinproject.com/) using full stack JavaScript path as my main tech stack focus. So far the main things that I learned through this website are JavaScript classes, factory functions, modules and better practices related to writing program code and also writing commits using git.
+* Refreshing and improving my knowledge on [The Odin Project](https://www.theodinproject.com/) using full stack JavaScript path as my main tech stack focus.
 
 I am also hosting my own [portfolio](https://www.ignasc.lt/) on a server that is running on raspberry pi at home. Although my most recent details and projects are here on github and I will be looking to rebuild my website at some point in the future and potentially containerize everything to be able to use server for more than just a single website. Having linux operating system on my main desktop machine as a daily driver, made me comfortable using command line to do the very basic things like navigating around, working with files and folders, keeping system up to date and similar daily tasks.
 
