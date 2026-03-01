@@ -6,11 +6,11 @@ My name is Ignas, I am electrical engineer and I am learning to code.
 
 * Refreshing and improving my knowledge on [The Odin Project](https://www.theodinproject.com/) using full stack JavaScript path as my main tech stack focus.
 
-I am also hosting my own [portfolio](https://www.ignasc.lt/) on a server that is running on raspberry pi at home. Although my most recent details and projects are here on github and I will be looking to rebuild my website at some point in the future and potentially containerize everything to be able to use server for more than just a single website. Having linux operating system on my main desktop machine as a daily driver, made me comfortable using command line to do the very basic things like navigating around, working with files and folders, keeping system up to date and similar daily tasks.
+I am also hosting my own [portfolio](https://www.ignasc.lt/) on a server that is running on raspberry pi at home. Although my most recent details and projects are here on github and I will be looking to rebuild my website at some point in the future and potentially containerize everything to be able to use server for more than just a single website. Having linux operating system on my main desktop machine as a daily driver, made me comfortable using command line to do the very basic things like navigating around, working with files and folders, keeping system up to date and similar daily tasks. And I am also starting to dip my toes into more intermediate and advanced terminal commands too.
 
 # Projects
 
-Current projects that I think are worthy to showcase my skills. Some are quite old, the ones that I did with just basic knowledge, while others are more recent that include better coding practices and more advanced features like classes, modules and better version management using git.
+Current projects that I think are worthy to share. Some are quite old, the ones that I did with just basic knowledge, while others are more recent that include better coding practices and more advanced features like classes, modules and better version management using git.
 
 ### Latest project
 
@@ -26,8 +26,8 @@ Current projects that I think are worthy to showcase my skills. Some are quite o
 
 # Languages and tools
 
-## Languages
-Languages and tools listed below are the ones I am the most familiar with and use friequently.
+## Most used
+Languages and tools listed below are the ones I am the most familiar with and either use friequently or spent a lot of time using them in the past.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,8 +38,8 @@ Languages and tools listed below are the ones I am the most familiar with and us
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-## Tools
-Tools listed below are the ones I have had a basic introduction to throughout courses, mini projects and coding challenges. While I would not be able to jump into them immediately, I have the understanding of basic principles and what pusposes these tools serve and it would be much easier to get up to speed with them than if I was to learn them from zero.
+## Been introduced to
+Languages and tools listed below are the ones I have had a basic introduction to throughout courses, mini projects and coding challenges. While I would not be able to jump into them immediately, I have the understanding of basic principles and what pusposes these tools serve and it would be much easier to get up to speed with them than if I was to learn them from zero.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
