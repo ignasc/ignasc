@@ -8,16 +8,20 @@ My name is Ignas, I am electrical engineer and I am learning to code.
 
 I am also hosting my own [portfolio](https://www.ignasc.lt/) on a server that is running on raspberry pi at home. Although my most recent details and projects are here on github and I will be looking to rebuild my website at some point in the future and potentially containerize everything to be able to use server for more than just a single website. Having linux operating system on my main desktop machine as a daily driver, made me comfortable using command line to do the very basic things like navigating around, working with files and folders, keeping system up to date and similar daily tasks. And I am also starting to dip my toes into more intermediate and advanced terminal commands too.
 
+Fun fact: accidentally breaking linux and then troubleshotting the issue makes me learn a ton of new stuff about operating system!
+
 # Projects
 
-Current projects that I think are worthy to share. Some are quite old, the ones that I did with just basic knowledge, while others are more recent that include better coding practices and more advanced features like classes, modules and better version management using git.
+Current projects that I think are worthy to share while I am learning. Some are quite old, the ones that I did with just basic knowledge, while others are more recent that include better coding practices and more advanced features like classes, modules and better version management using git.
 
 ### Latest project
 
-* Todo App (HTML/JS): [live preview](https://ignasc.github.io/todo-app/), [source code](https://github.com/ignasc/todo-app)
+* Card memorization game (React): [live preview](https://ignasc.github.io/odinProject-memoryGame/), [source code](https://github.com/ignasc/odinProject-memoryGame)
+
 
 ### Previous projects
 
+* Todo App (HTML/JS): [live preview](https://ignasc.github.io/todo-app/), [source code](https://github.com/ignasc/todo-app)
 * Solutions to Project Euler coding problems (JS): [source code](https://github.com/ignasc/coding_challenges_projecteuler)
 * Diceware password generator (basic HTML/JS): [live preview](https://ignasc.github.io/diceware-password-generator/), [source code](https://github.com/ignasc/diceware-password-generator)
 * Simple book library (HTML/JS): [live preview](https://ignasc.github.io/projectodin-bookLibrary/), [source code](https://github.com/ignasc/projectodin-bookLibrary)
@@ -39,7 +43,7 @@ Languages and tools listed below are the ones I am the most familiar with and ei
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ## Been introduced to
-Languages and tools listed below are the ones I have had a basic introduction to throughout courses, mini projects and coding challenges. While I would not be able to jump into them immediately, I have the understanding of basic principles and what pusposes these tools serve and it would be much easier to get up to speed with them than if I was to learn them from zero.
+Languages and tools listed below are the ones I have had a basic introduction to throughout courses, mini projects and coding challenges. While I would not be able to jump into them immediately, I have the understanding of basic principles and what pusposes these tools serve and it makes it much easier to get up to speed with them than if I was to learn them from zero.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
